@@ -1,0 +1,9 @@
+../Core/Src/main.c:90:18:set_mode_e32_lora	32	static
+../Core/Src/main.c:159:6:config_e32_lora	40	static
+../Core/Src/main.c:231:5:main	40	static
+../Core/Src/main.c:302:6:SystemClock_Config	72	static
+../Core/Src/main.c:342:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:388:13:MX_TIM4_Init	32	static
+../Core/Src/main.c:433:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:466:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:522:6:Error_Handler	4	static,ignoring_inline_asm
